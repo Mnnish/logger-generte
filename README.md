@@ -1,4 +1,5 @@
-Logger-Generate: Spring Boot CRUD API with SLF4J
+🚀** Logger-Generate: Spring Boot CRUD API with SLF4J**
+
 A robust Java-based backend service designed to demonstrate professional Logging (SLF4J/Logback), RESTful CRUD operations, and PostgreSQL integration. This project focuses on observability and persistence, ensuring every database transaction is tracked and archived.
 
 🛠️ **Tech Stack**
